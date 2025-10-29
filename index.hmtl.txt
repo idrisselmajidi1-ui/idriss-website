@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>SALAM F MY WEBSITE</title>
+  <style>
+    html,body{
+      height:100%;
+      margin:0;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      background: linear-gradient(180deg,#0f172a 0%, #111827 60%, #0b1220 100%);
+      color: #fff;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      text-align:center;
+    }
+    h1{
+      font-size: clamp(32px, 8vw, 64px);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+  </style>
+</head>
+<body>
+  <h1>SALAM F MY WEBSITE</h1>
+</body>
+</html>
